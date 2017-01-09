@@ -1,0 +1,19 @@
+{
+  "name": "sliding-block",
+  "version": "0.0.1",
+  "description": "Sliding block verification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubycountryside/sliding-block.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rubycountryside/sliding-block/issues"
+  },
+  "homepage": "https://github.com/rubycountryside/sliding-block#readme"
+}
